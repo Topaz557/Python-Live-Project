@@ -3,7 +3,8 @@
 <h1> Introduction </h1>
 <p> This repository contains a website built out with Django/pycharm that allows for the user to create a booklist with title, author, date finished, and a review of the book. It also contains an API that returns the top 15 best sellers on the New York Times list for that month, to assist the user in finding new reading material. 
 <h2> create </h2>
-<p>This is where I created the basic model of the website.</p>
+<p>This is where I created the basic model of the website![BookList-Create](https://user-images.githubusercontent.com/99693735/183208852-51a02f4f-b856-4d6d-8c51-0272f88ba373.png)
+.</p>
 <h3> read</h3>
 <p> This is where I added the functionality to allow for the user to see all added items to the data base, as well as the details of the added books.
 <h4> Update and Delete</h4>
