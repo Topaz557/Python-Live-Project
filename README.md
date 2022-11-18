@@ -3,14 +3,14 @@
 <h1> Introduction </h1>
 <p> This repository contains a website built out with Django/pycharm that allows for the user to create a booklist with title, author, date finished, and a review of the book. It also contains an API that returns the top 15 best sellers on the New York Times list for that month, to assist the user in finding new reading material. This project was completed over a two week period with a daily standup meeting while working in an Agile/Scrum enviorment. 
 <h2> Skills Acquired </h2>
-<p>During this project I learned how to work in an agile/scrum enviorment, additional Django/python/html coding, as well as how to get a functioning API. Overall it was a very imformative two week sprint!</p>
-<h3> create </h3>
+<p>During this project I learned how to work in an agile/scrum enviornment, I additionally learned Django/python/html coding, as well as how to get a functioning API. Overall it was a very informative two week sprint!</p>
+<h3> Create </h3>
 <p>This is where I created the basic model of the website!
 </p>
 
 ![BookList-Create](https://user-images.githubusercontent.com/99693735/183210323-bec5a193-8ea5-485f-aa1d-0b9d10e8e1ab.png)
 
-<h4> read</h4>
+<h4> Read</h4>
 <p> This is where I added the functionality to allow for the user to see all added items to the data base, as well as the details of the added books.</p>
 
 ![BookList read](https://user-images.githubusercontent.com/99693735/183211838-09ab0472-8253-4c0d-a7ea-3a53be9fd221.png)
